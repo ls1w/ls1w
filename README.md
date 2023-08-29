@@ -1,10 +1,10 @@
-Bem-vindo! 🙋‍♂️
+### Bem-vindo! 🙋‍♂️
 
 <hr>
 
 Sou Lucas K S Souza, ás vezes fico como Lucas Souza 🙂
 
-Sei de: 🧐 <br>
+Sei de: 🤓 <br>
 🖥️ python; <br>
 💻 Programação em fron-end. <br>
 
