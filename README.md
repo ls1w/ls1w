@@ -19,8 +19,7 @@ Minhas Redes: 🌐
 
 Minhas estatísticas: 🥧
 
-![ls1w GitHub stats](https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent)
-
+![ls1w GitHub stats](https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent) <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&theme=transparent&layout=pie)
 
 <hr>
