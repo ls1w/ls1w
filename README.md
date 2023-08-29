@@ -18,3 +18,7 @@ Minhas Redes:
 <hr>
 
 Minhas estatísticas:
+
+[![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=ls1w)](https://github.com/ls1w/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&layout=compact)](https://github.com/ls1w/github-readme-stats)
