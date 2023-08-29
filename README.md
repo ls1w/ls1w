@@ -5,8 +5,10 @@ Bem-vindo! 🙋‍♂️
 Sou Lucas K S Souza, ás vezes fico como Lucas Souza 🙂
 
 Sei de: 🧐
-python;
-javascript;
-html;
-css.
+💻 python; <br>
+🖥️ javascript; <br>
+🌐 html; <br>
+🌐 css. <br>
 
+ <hr>
+ 
