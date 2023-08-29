@@ -8,8 +8,8 @@ Sei de: 🧐 <br>
 🖥️ python; <br>
 💻 Programação em fron-end. <br>
 
-Estudando:
-Senai - Programação em python
+Estudando: <br>
+Senai - Programação em python <br>
 Senai - Webdesing e Frontend
 
  <hr>
