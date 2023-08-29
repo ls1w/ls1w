@@ -12,8 +12,8 @@ Estudando: 🧐 <br>
  
 Minhas Redes: 🌐
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ls1w)](https://github.com/ls1w)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-kss-souza-program/)](https://www.linkedin.com/in/lucas-kss-souza-program/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/ls1w)](https://github.com/ls1w)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-kss-souza-program/)](https://www.linkedin.com/in/lucas-kss-souza-program/)
 
 <hr>
 
