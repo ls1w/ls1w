@@ -4,13 +4,9 @@
 
 Sou Lucas K S Souza, ás vezes fico como Lucas Souza 🙂
 
-Sei de: 🧐 <br>
-🖥️ python; <br>
-💻 Programação em fron-end. <br>
-
 Estudando: <br>
-Senai - Programação em python <br>
-Senai - Webdesing e Frontend
+🖥️ Senai - Programação em python <br>
+💻 Senai - Webdesing e Frontend <br>
 
  <hr>
  
@@ -23,6 +19,15 @@ Minhas Redes:
 
 Minhas estatísticas:
 
-[![cristianocorreamoraes GitHub stats](https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent)](https://github.com/ls1w/github-readme-stats)
+![ls1w GitHub stats](https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&layout=compact)](https://github.com/ls1w/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&layout=compact&show_icons=true&theme=transparent)
+
+<hr>
+
+Minhas principais linguagens:
+
+ ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+ ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+ ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+ ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
