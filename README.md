@@ -2,7 +2,7 @@
 
 <hr>
 
-Sou Lucas K S Souza 🙂
+Sou Lucas K S Souza 😉
 
 Estudando: 🧐 <br>
 🖥️ Senai - Programação em python <br>
