@@ -34,7 +34,7 @@ Minhas principais linguagens:
 
 <hr>
 
-Meus sistemas operacionais: <br>
+Uso os sistemas operacionais: <br>
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)
 ![openSUSE](https://img.shields.io/badge/openSUSE-%2364B345?style=flat&logo=openSUSE&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-294172?style=flat&logo=fedora&logoColor=white)
