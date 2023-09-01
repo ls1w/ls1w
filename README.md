@@ -1,7 +1,7 @@
 ## Lucas K S Souza
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?&center=true&vCenter=true&pause=750&lines=Bem-vindos!+Devs👋;Amo+aprender+🤓;Aprendamos+juntos+🙂" alt="README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?&center=true&vCenter=true&pause=750&lines=Bem-vindos+Devs!👋;Amo+aprender+🤓;Aprendamos+juntos+🙂" alt="README Typing SVG">
 </p>
 
 Estudando: <br>
