@@ -12,9 +12,9 @@ Estudando: <br>
 Minhas estatísticas: 📈
 
 <div align="center">
-   <a href="https://github.com/ls1w/">
-   <img width="445em" src="https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent"/>
-   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&theme=transparent&layout=compact"/>
+  <a href="https://github.com/ls1w/">
+  <img width="320em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&theme=transparent&layout=donut"/>
+  <img width="470em" src="https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent"/>
 </div>
 
 ##
