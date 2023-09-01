@@ -1,28 +1,24 @@
-### Bem-vindo! 🙋‍♂️
+## Lucas K S Souza
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?&center=true&vCenter=true&pause=750&lines=Bem-vindos!+Devs👋;Amo+aprender+🤓;Aprendamos+juntos+🙂" alt="README Typing SVG">
+</p>
 
-<hr>
+Estudando: <br>
+ - 🖥️ Senai | Programação em python <br>
+ - 💻 Senai | Webdesing e Frontend  <br>
 
-Sou Lucas K S Souza 😉
+##
 
-Estudando: 🧐 <br>
-🖥️ Senai - Programação em python <br>
-💻 Senai - Webdesing e Frontend <br>
+Minhas estatísticas: 📈
 
- <hr>
- 
-Minhas Redes: 🌐
+<div align="center">
+   <a href="https://github.com/ls1w/">
+   <img width="445em" src="https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent"/>
+   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&theme=transparent&layout=compact"/>
+</div>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/ls1w)](https://github.com/ls1w)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-kss-souza-program/)](https://www.linkedin.com/in/lucas-kss-souza-program/)
+##
 
-<hr>
-
-Minhas estatísticas: 🥧
-
-![ls1w GitHub stats](https://github-readme-stats.vercel.app/api?username=ls1w&show_icons=true&theme=transparent) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ls1w&theme=transparent&layout=pie)
-
-<hr>
 
 Minhas principais linguagens:
 
@@ -32,7 +28,14 @@ Minhas principais linguagens:
  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
  ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 
-<hr>
+##
+ 
+Minhas Redes: 🌐
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white&link=https://github.com/ls1w)](https://github.com/ls1w)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-kss-souza-program/)](https://www.linkedin.com/in/lucas-kss-souza-program/)
+
+##
 
 Uso os sistemas operacionais: <br>
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=flat)
