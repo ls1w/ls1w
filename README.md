@@ -45,3 +45,11 @@ Uso os sistemas operacionais: <br>
 [![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=flat&logo=Pop!_OS&logoColor=white)](https://pop.system76.com/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)](https://www.microsoft.com/pt-br/windows/)
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://www.android.com/)
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ls1w/ls1w/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ls1w/ls1w/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ls1w/ls1w/output/github-contribution-grid-snake.svg">
+</picture>
